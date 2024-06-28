@@ -1,4 +1,4 @@
-![logo](https://github.com/Nevaloss-technologies/Nevaloss-technologies/blob/main/banner_git.jpg)
+![logo](https://github.com/Nevaloss-technologies/Nevaloss-technologies/blob/main/Untitled-1.jpg)
 <h1 align="center">Hi 👋, I'm Nevaloss Technologies Pvt. Ltd.</h1>
 <h3 align="center">A Fast Growing IT Company in India</h3>
 <img align="right" alt="coding" width="400" src="https://relinksys.com/assets/images/team-animated.gif">
