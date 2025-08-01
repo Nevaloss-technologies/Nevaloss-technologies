@@ -12,7 +12,7 @@
 
 - 🤝 We are registered vendor of [Dorman](https://www.dormanproducts.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.nevalosstechnologies.com/success_stories]
+- 👨‍💻 All of my projects are available at https://www.nevalosstechnologies.com/success_stories
 
 - 💬 Ask me about **React, laravel , android, arduino, IOT apps**
 
