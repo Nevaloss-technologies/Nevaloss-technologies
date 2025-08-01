@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://relinksys.com/assets/images/team-animated.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nevaloss-technologies&label=Profile%20views&color=0e75b6&style=flat" alt="nevaloss-technologies" /> </p>
 
-- 🔭 We are currently working on [Expert wash](https://expertwash.in/)
+- 🔭 We are currently working on [Expert wash](https://expertwash.in/,NEVA-LOGGER)
 
 - 🌱 We are growing in **AI tools**
 
@@ -12,7 +12,7 @@
 
 - 🤝 We are registered vendor of [Dorman](https://www.dormanproducts.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.nevalosstechnologies.com/portfolios/](https://www.nevalosstechnologies.com/portfolios/)
+- 👨‍💻 All of my projects are available at [https://www.nevalosstechnologies.com/portfolios/]](https://www.nevalosstechnologies.com/success_stories))
 
 - 💬 Ask me about **React, laravel , android, arduino, IOT apps**
 
